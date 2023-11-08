@@ -44,3 +44,5 @@ function buildSquare(num) {
     });
     return cell;
 }
+
+// add random class generator 
